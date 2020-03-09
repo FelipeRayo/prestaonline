@@ -1,0 +1,14 @@
+/* YOUR CUSTOM STYLES */
+div .card{
+	
+	margin-top: 50px;
+
+}
+
+div #customerinformation:hover{
+	cursor: pointer;
+}
+
+.dataTables_filter {
+display: none; 
+}
